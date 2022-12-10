@@ -1,4 +1,5 @@
 ВСЕ ОТЧЕТЫ: https://drive.google.com/drive/folders/1YP1udwEQCIVt6xpFdt5HyOcb7bJUHmiK
+
 Разработка информационной системы для парикмахерской
 Справочники:
 	Залы, 
